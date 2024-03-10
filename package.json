@@ -1,6 +1,6 @@
 {
-  "name": "dapp-ui",
-  "private": true,
+  "name": "dapp-ui-nuxt",
+  "private": false,
   "type": "module",
   "scripts": {
     "build": "nuxt build",
@@ -22,7 +22,7 @@
   "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sambooora/dapp-ui.git"
+    "url": "git+https://github.com/sambooora/dapp-ui-nuxt.git"
   },
   "keywords": [
     "dapp",
@@ -32,7 +32,7 @@
   "author": "sambooora",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/sambooora/dapp-ui/issues"
+    "url": "https://github.com/sambooora/dapp-ui-nuxt/issues"
   },
-  "homepage": "https://github.com/sambooora/dapp-ui#readme"
+  "homepage": "https://github.com/sambooora/dapp-ui-nuxt#readme"
 }
